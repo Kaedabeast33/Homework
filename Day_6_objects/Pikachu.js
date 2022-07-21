@@ -1,0 +1,3 @@
+let pikachu=[
+    move:Electroball
+]
